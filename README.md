@@ -23,7 +23,8 @@
 
 ## ✨ Sobre mim
 
-Sou apaixonada por aprender novas tecnologias e pretendo me aprofundar cada vez mais em programação para desktop e web.
+Sempre gostei de **tecnologia, computadores e programação**.
+Estou me dedicando a aprender cada vez mais e a desenvolver minha carreira de na área de **desenvolvimento de software**.
 
 ---
 
