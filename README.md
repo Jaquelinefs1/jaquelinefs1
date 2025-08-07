@@ -17,11 +17,9 @@
 
 ## 📊 Estatísticas GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUÁRIO&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinefs1&layout=compact&theme=default)
 
-> 🔄 Substitua `SEU-USUÁRIO` pelo seu nome de usuário do GitHub no link acima para que as estatísticas funcionem corretamente.
 
----
 
 ## ✨ Sobre mim
 
