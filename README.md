@@ -1,6 +1,6 @@
 # 👩‍💻 Olá pessoal! Meu nome é Jaqueline de Faria Silva
 
-🎓 Estudante de **Ciências da Computação** com interesse em desenvolvimento de **software para aplicações em Desktop**.  
+🎓 Sou estudante de **Ciências da Computação** com interesse em desenvolvimento de **software para aplicações em Desktop**.  
 📚 Atualmente estudando **modelagem de banco de dados** e **desenvolvimento front-end para web**.
 
 ---
