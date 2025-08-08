@@ -27,4 +27,3 @@ Estou me dedicando a aprender cada vez mais e a desenvolver minha carreira de na
 
 ---
 
-<!-- Se quiser adicionar contatos depois, posso colocar uma seção aqui! -->
